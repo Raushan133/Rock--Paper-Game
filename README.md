@@ -1,2 +1,2 @@
-# Rock-Paper-Game
-I have creating a Simple game called as Rock-Paper Game using HTML, Tailwind and JavaScript.
+# Tic-Tac-Toe Game
+I have creating a Simple game called as Tic-Tac-Toe Game using HTML, Tailwind and JavaScript.
